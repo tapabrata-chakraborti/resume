@@ -1,8 +1,6 @@
 # resume
 
-This is my short 1 page aacademic resume. This can be used citing the original author below:
-
-This has been built on the LaTeX template of Debarghya Das (Deedy) available online publicly.
+This is my short 1 page aacademic resume. This can be used citing the original author Debarghya Das (Deedy).
 
 Website: http://www.debarghyadas.com
 
